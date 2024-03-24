@@ -1,7 +1,7 @@
 const hello = require("./hello");
 describe("My hello", () => {
   test("works", () => {
-const hello = () => "Hello World from Jersey City and NOT NYC";
+const hello = () => "Hello World from Spain";
 expect(hello.hello()).toEqual("");
   });
 });
